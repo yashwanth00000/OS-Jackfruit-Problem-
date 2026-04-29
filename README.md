@@ -1,0 +1,4 @@
+# OS-Jackfruit-Mini-Project
+# Team Members:
+SRI RAM V (SRN: PES1UG24AM283) , SHREYAN GANESH SM (SRN: PES1UG25AM813) , YASHWANTH GOWDA TG (SRN: PES1UG25AM818)
+"# OS-Jackfruit-Problem-" 
